@@ -7,4 +7,5 @@ public class GenericStackClient {
         System.out.println("\n2. Stack of Strings");
         MyGenericStack.stackOfIStrings();
     }
+
 }
